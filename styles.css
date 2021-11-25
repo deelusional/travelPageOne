@@ -45,7 +45,7 @@
 }
 
 #hero-content a:hover {
-  background-color: rgb(235, 224, 112);
+  background-color: rgb(255, 238, 0);
 }
 
 #highlights {
@@ -72,6 +72,7 @@
 .destination {
   margin: 0 20px;
   text-transform: uppercase;
+  width: 25%;
 }
 
 .destination p {
